@@ -35,7 +35,7 @@ CREATE TABLE salaries (
 	PRIMARY KEY (emp_no)
 );
 
-CREATE TABLE dep_emp (
+CREATE TABLE dept_emp (
 	emp_no INT NOT NULL,
 	dept_no VARCHAR(40) NOT NULL,
 	from_date DATE NOT NULL,
@@ -56,3 +56,5 @@ CREATE TABLE titles (
 
 SELECT * from employees;
 SELECT * FROM departments;
+SELECT * FROM titles
+
