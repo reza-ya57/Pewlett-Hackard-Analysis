@@ -9,8 +9,12 @@ Pewlett Hackard is a large comapny with several thousands employees and it is fa
 
 In this study we generate some usefull information like the employees who will be retired soon and the employees who are eligible for retirement package.
 
-In Data report files you can find bellow report which is help the manager to make a proper decision according to company srategies:
+In Data report files you can find bellow two major reports which can help the manager to make a proper decision according to the company's srategy:
+ - The Number of Retiring Employees by Title
+ - The Employees Eligible for the Mentorship Program
 
+
+ 
 Background
 Now that Bobby has proven his SQL chops, his manager has given both of you two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
