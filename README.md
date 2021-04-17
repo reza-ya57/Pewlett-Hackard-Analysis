@@ -18,7 +18,7 @@ In Data report files you can find bellow two major reports which can help the ma
 1. Based on the retirement information report, more than 90,000 employees will be entitle for retiring soon.
 2. This huge number can make a big effect on the company efficency so one option might be using some of the as part time eomployee instead of let them leave the company.
 3. Regarding the total unique titles which is elligable for retirement process, we can see two titles have the big portion of the retiery. 
-  ![Outcomes vs Goals](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+  ![retiring title](https://github.com/reza-ya57/Pewlett-Hackard-Analysis/blob/main/Data/retiring_title.png)
 4. Company can use the experience of the current employee to run the mentorship program for new employee.  
 
 ## Summary
