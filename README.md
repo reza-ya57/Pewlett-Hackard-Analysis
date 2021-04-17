@@ -26,7 +26,7 @@ In Data report files you can find bellow two major reports which can help the ma
    - 7 roles need to be filled
  - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
    - Look like company has enough qualified mentor for running the mentorship program. In below chart you can see the number of qualified mentor per each title.  
-   ![Outcomes vs Goals](https://github.com/reza-ya57/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+   ![qualified mentor](https://github.com/reza-ya57/Pewlett-Hackard-Analysis/blob/main/Data/eligible_mentor.png)
 Background
 Now that Bobby has proven his SQL chops, his manager has given both of you two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
