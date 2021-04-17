@@ -27,5 +27,5 @@ In Data report files you can find bellow two major reports which can help the ma
  - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
    - Look like company has enough qualified mentor for running the mentorship program. In below chart you can see the number of qualified mentor per each title.  
    ![qualified mentor](https://github.com/reza-ya57/Pewlett-Hackard-Analysis/blob/main/Data/eligible_mentor.png)
- - There are 19821 male employees and 13297 female employees which will be retired soon.
+ - 19,821 male employees and 13,297 female employees are working in Pewlett Hackard which will be retired soon.
  - The highest salary of the eligible retiery employee is $124,357 and the minimum salary is $40,000 which has very big gap between lowest and highest salary in this company. 
